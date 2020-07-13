@@ -1,13 +1,8 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# Responsable y comprometida, Docente/Analista de  información 
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+Me establecerme y crecer profesionalmente, me gusta trabajar en equipo, escuchar las opiniones de todos y encontrar puntos en común. Estoy a costumbrada al trabajo orientado a metas, normalmente organizo mi tiempo para establecer el alcance de pequeñas metas que lleven a término grandes objetivos.   
+Me interesa desarrollarme en áreas de análisis de datos, docencia y/o administrativas, para ampliar y enriquecer mis conocimientos y habilidades adquiridos poniéndolos al servicio de la institución y crecer como profesional; generando y aportando nuevas estrategias, ideas, y formas de trabajo, para lograr eficacia y eficiencia al efectuar las labores asignadas.
 
-Oh! I haven't introduced myself...
-
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+## Intereses y recreaciones
+En el ámbito recreativo gusto de actividades que requieren de pensamiento analítico y creativoEn el ámbito recreativo gusto por actividades que requieren de pensamiento analítico y creativo como armado de muebles, de rompecabezas.
+Gusto recreativo por artes plásticas, específicamente la pintura, diseño de interiores y vestido 
